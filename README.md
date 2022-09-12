@@ -14,7 +14,7 @@
 # docker container run -d --name myprometheus -p 9090:9090 imagename:latest
 ```
 
-### Acesso a interface web do prometheus:
+### Acesso à interface web do prometheus:
 ```
-# Acesso a interface web através do link: http://localhost:9090
+# Acesso à interface web através do link: http://localhost:9090
 ```
